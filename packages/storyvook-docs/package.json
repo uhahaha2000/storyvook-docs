@@ -1,0 +1,24 @@
+{
+  "name": "@uhahaha2000/storyvook-docs",
+  "version": "1.0.0",
+  "description": "Reusable Storybook MDX documentation",
+  "main": "src/index.js",
+  "files": [
+    "src/culor.mdx",
+    "src/example.mdx",
+    "src/test.mdx"
+  ],
+  "peerDependencies": {
+    "@storybook/addon-docs": "^latest",
+    "react": "^18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uhahaha2000/storybook-docs"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
