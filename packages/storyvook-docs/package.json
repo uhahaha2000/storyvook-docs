@@ -9,7 +9,7 @@
     "src/test.mdx"
   ],
   "peerDependencies": {
-    "react": "^18.0.0"
+    "react": ">=18.0.0"
   },
   "repository": {
     "type": "git",
