@@ -9,7 +9,7 @@
     "src/test.mdx"
   ],
   "peerDependencies": {
-    "@storybook/addon-docs": "^latest",
+    "@storybook/addon-docs": "^8.5.0",
     "react": "^18.0.0"
   },
   "repository": {
