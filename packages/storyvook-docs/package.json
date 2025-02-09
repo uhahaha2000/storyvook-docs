@@ -1,6 +1,6 @@
 {
   "name": "@uhahaha2000/storyvook-docs",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Reusable Storybook MDX documentation",
   "main": "src/index.js",
   "files": [
@@ -9,12 +9,11 @@
     "src/test.mdx"
   ],
   "peerDependencies": {
-    "@storybook/addon-docs": "^8.5.0",
     "react": "^18.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uhahaha2000/storybook-docs"
+    "url": "https://github.com/uhahaha2000/storyvook-docs"
   },
   "publishConfig": {
     "access": "public"
