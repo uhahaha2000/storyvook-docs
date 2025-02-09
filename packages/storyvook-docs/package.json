@@ -1,6 +1,6 @@
 {
   "name": "@uhahaha2000/storyvook-docs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Reusable Storybook MDX documentation",
   "main": "src/index.js",
   "files": [
@@ -8,6 +8,12 @@
     "src/example.mdx",
     "src/test.mdx"
   ],
+  "type": "module",
+  "exports": {
+    "./culor.mdx": "./src/culor.mdx",
+    "./example.mdx": "./src/example.mdx",
+    "./test.mdx": "./src/test.mdx"
+  },
   "peerDependencies": {
     "react": ">=18.0.0"
   },
